@@ -1,6 +1,4 @@
-*.pkl
-similarity.pkl
-movie_list.pkl
+
 *.csv
 tmdb_5000_movies.csv
 tmdb_5000_credits.csv
