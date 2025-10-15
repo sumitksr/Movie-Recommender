@@ -1,5 +1,8 @@
-import pickle
+
+print("App starting")
 import streamlit as st
+print("Imported Streamlit")
+import pickle
 import requests
 
 st.set_page_config(page_title="Movie Recommender", page_icon="🎬", layout="wide")
