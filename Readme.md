@@ -65,16 +65,4 @@ streamlit run app.py
 
 Open the URL shown in the terminal (typically `http://localhost:8501`).
 
-## Notes and troubleshooting
 
-- If poster images fail to load, ensure you have an internet connection; posters are fetched from TMDB.
-- If you changed data file names or locations, update `app.py` and the notebook paths accordingly.
-- If you get errors when loading `movie_list.pkl` or `similarity.pkl`, regenerate them by running the notebook end-to-end.
-
-## Live demo and source
-
-- Live demo: https://cineguide-sumitksr.streamlit.app/
-- Source code: https://github.com/sumitksr/Movie-Recommender
-
-
----
