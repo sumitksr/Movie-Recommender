@@ -1,5 +1,4 @@
 # Movie Recommender
-
 A lightweight movie recommender system built with Streamlit and Python. This repository contains a small Streamlit app (`app.py`) and a companion Jupyter notebook (`project.ipynb`) used to explore and prepare the dataset and to build the recommendation model.
 
 Live demo: https://cineguide-sumitksr.streamlit.app/
